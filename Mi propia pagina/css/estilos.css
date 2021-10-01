@@ -1,0 +1,53 @@
+body {
+	background:#fff;
+	text-align: left;
+}
+
+h1 {
+	font-family: "Cambria";
+	font-weight: normal;
+	color:black;
+	text-align: center;
+	background: #C9EBCF;
+	font-size:50px;
+}
+
+h2 {
+	font-family: "Cambria";
+	color:brown;
+	font-size:30px;
+}
+
+h3 {
+	font-family: "Cambria";
+	color:brown;
+	font-size:30px;
+}
+  
+  h4 {
+	font-family: "Cambria";
+	color:brown;
+	font-size:26px;
+}
+  
+
+
+ p {
+	color:black;
+	font-family: "Calibri";
+	font-size: 20px;
+	font-weight:normal;
+	text-align: left;
+	line-height: 20px;
+	text-decoration: none;
+}
+
+a {
+	font-size: 20px;
+	text-decoration: none;
+	margin: 10px 20px 10px 0px;
+	display: inline-block;
+	background: #BDE5C4;
+	color:black;
+	padding: 10px 20px;
+}

@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xamppp/htdocs/proyecto/estilo.css",
+		"/C/xamppp/htdocs/proyecto/con_db.php",
+		"/C/xamppp/htdocs/proyecto/index.php",
+		"/C/xamppp/htdocs/proyecto/registrar.php",
+		"/C/xamppp/htdocs/proyecto/inicio.php",
+		"/C/Users/Cliente f/Desktop/Cbtis128/estilo.css",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Contactos.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Alumnos.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Departamentos.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Nosotros.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/inicio.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Concursos.html",
+		"/C/Users/Cliente f/Desktop/Cbtis128/Transparencia.html",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa13420.4182/veterinaria/instalaciones.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa13420.3223/veterinaria/servicios.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa13820.24106/Pagina proyecto sin bandera/index.html",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa13820.23141/Pagina proyecto sin bandera/Noticias.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa10940.629/veterinaria/servicios.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11920.5405/veterinaria/nosotros.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa5224.1303/css/normalize.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa5224.521/css/supersized.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa5224.198/css/stilos.css",
+		"/C/Users/Cliente f/Downloads/cursos.htm",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa5224.2025/css/demo.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.3726/css/component.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.14982/css/supersized.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.15368/css/stilos.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.15694/css/normalize.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.16007/css/demo.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2312.16214/css/component.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.38578/css/supersized.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.34210/css/stilos.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.39275/css/normalize.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.39777/css/demo.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.40185/css/component.css",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa11536.38060/css/stilos.css",
+		"/C/Users/Cliente f/Downloads/css.rar",
+		"/C/Users/Cliente f/Desktop/menu/curs.html",
+		"/C/Users/Cliente f/Desktop/menu/menu.css",
+		"/C/Users/Cliente f/Desktop/menu/cursos.htm",
+		"/C/Users/Cliente f/Desktop/menu.css",
+		"/C/Users/Cliente f/Desktop/css.rar",
+		"/C/Users/Cliente f/Desktop/menu/vertical.css",
+		"/C/Users/Cliente f/Desktop/menu/menuvertical.html",
+		"/C/Users/Cliente f/Desktop/Mi propia pagina/menuvertical.html",
+		"/C/Users/Cliente f/Desktop/Mi propia pagina/menuvertical.css",
+		"/C/Users/Cliente f/Desktop/Mi propia pagina/Mi pagina.html.html",
+		"/C/Users/Cliente f/Desktop/Mi propia pagina/css/estilos.css",
+		"/C/Users/Cliente f/Desktop/Mi propia pagina/menu.html",
+		"/C/Users/Cliente f/Desktop/ey/css/estilos.css",
+		"/C/Users/Cliente f/Desktop/veterinaria/index.html",
+		"/C/Users/CLIENT~1/AppData/Local/Temp/Rar$DRa2016.4638/Pagina proyecto sin bandera/index.html",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/css/estilos.css",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/Estado_LMD.html",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/estructura.html",
+		"/C/Users/Cliente f/Desktop/veterinaria/nosotros.htm",
+		"/C/Users/Cliente f/Desktop/veterinaria/servicios.htm",
+		"/C/Users/Cliente f/Desktop/veterinaria/estetica.htm",
+		"/C/Users/Cliente f/Desktop/veterinaria/instalaciones.htm",
+		"/C/Users/Cliente f/Desktop/veterinariaEditada.rar",
+		"/C/Users/Cliente f/Desktop/veterinaria/css/stilos.css",
+		"/C/Users/Cliente f/Desktop/veterinaria/contacto.htm",
+		"/C/Users/Cliente f/Downloads/veterinaria (3).rar",
+		"/C/Users/Cliente f/Downloads/veterinaria (2).rar",
+		"/C/Users/Cliente f/Downloads/veterinaria (1).rar",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/stilos.css",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/servicios.htm",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/nosotros.htm",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/index.htm",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/index.html",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/veterinaria.html",
+		"/C/Users/Cliente f/Desktop/Estado_LMD.html/stilos veterinaria.css",
+		"/C/Program Files (x86)/Sublime Text 3/prueba",
+		"/C/Program Files (x86)/Sublime Text 3/Estado_LMD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 2 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/Transversalidad.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 10 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 3 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 9 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 7 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 8 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/practica guiada.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 4 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 5 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/PAGINA 6 TRANSVERSALIDAD.html",
+		"/C/Program Files (x86)/Sublime Text 3/Practica guiada.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add",
+			">\n",
+			" \n",
+			"D1ECD2",
+			"Serif"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "menu vertical.html",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
